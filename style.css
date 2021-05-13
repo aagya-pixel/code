@@ -1,0 +1,27 @@
+body{
+    background-color:grey;
+  background-image:url(image/s1.jpg);
+  background-repeat: repeat
+}
+
+header{
+    height:200px;
+    width:200%;
+   background-position:right;
+
+}
+.nav{
+    text-align:right;
+    padding:30px;
+}
+.nav a{
+   text-decoration:none;
+   color:;
+   margin-right:150px;
+}
+.nav a:hover{
+    background:green;
+    border:3px; 
+}
+
+}
